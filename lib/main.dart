@@ -1,4 +1,3 @@
-
 import 'package:book_shop/theme/colors.dart';
 import 'package:flutter/material.dart';
 
@@ -7,6 +6,8 @@ import 'pages/home.dart';
 void main() {
   runApp(MyApp());
 }
+
+// New 
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
