@@ -17,8 +17,6 @@ class _BookPageState extends State<BookPage> {
     return body();
   }
 
-  // new method to encapsulate the body of the widget
-
   Widget body() {
     return DefaultTabController(
       length: 2,
